@@ -4,15 +4,15 @@ I'm a Full-Stack Developer with a background in retail and sales. I am excited t
 ## Contacts
 You can reach me by email: jthz457@gmail.com or Linkedin: https://www.linkedin.com/in/jackthz97/
 
-# My Stacks
-## Languages
+## My Stacks
+### Languages
 JavaScript, HTML, CSS, Ruby, SQL
 
-## Libraries/Technologies
+### Libraries/Technologies
 React, Node.js, Express.js, AJAX, jQuery, Material UI, REST, Rails, Socket.io, WebSockets
 
-## Database
+### Database
 PostgreSQL
 
-## Testing
+### Testing
 Mocha Chai, Storybook, Jest, Cypress

@@ -6,7 +6,8 @@ You can reach me by email: jthz457@gmail.com or Linkedin: https://www.linkedin.c
 
 ## My Stacks
 ### Languages
-JavaScript, HTML, CSS, Ruby, SQL
+-JavaScript
+-HTML, CSS, Ruby, SQL
 
 ### Libraries/Technologies
 React, Node.js, Express.js, AJAX, jQuery, Material UI, REST, Rails, Socket.io, WebSockets

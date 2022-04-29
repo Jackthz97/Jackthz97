@@ -23,11 +23,11 @@ You can reach me by email: jthz457@gmail.com or Linkedin: https://www.linkedin.c
 - Socket.io
 - WebSockets
 
-### Database
-- PostgreSQL
-
 ### Testing
 - Mocha Chai
 - Storybook
 - Jest
 - Cypress
+
+### Database
+- PostgreSQL

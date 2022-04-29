@@ -19,6 +19,7 @@ You can reach me by email: jthz457@gmail.com or Linkedin: https://www.linkedin.c
 - AJAX 
 - jQuery
 - Material UI
+- Bootstrap
 - Rails
 - Socket.io
 - WebSockets

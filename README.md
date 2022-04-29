@@ -6,8 +6,7 @@ You can reach me by email: jthz457@gmail.com or Linkedin: https://www.linkedin.c
 
 ## My Stacks
 ### Languages
-- JavaScript
-- HTML
+- JavaScript - HTML
 - CSS 
 - Ruby 
 - SQL

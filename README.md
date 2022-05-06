@@ -9,7 +9,7 @@ JavaScript / HTML / CSS / Ruby / SQL
 React / Node.js / Express.js / AJAX / jQuery / Rails / Socket.io / WebSockets / Material UI / Bootstrap
 
 ### Testing
-Mocha / Chai / Storybook / Jest / Cypress
+Mocha / Chai / Storybook / Jest / Cypress / Rspec
 
 ### Database
 PostgreSQL

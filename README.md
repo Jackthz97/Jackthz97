@@ -3,7 +3,7 @@ I'm a Full-Stack Developer with a background in retail and sales. I am excited t
 
 ## My Stacks 🖥
 ### Languages
-JavaScript / HTML / CSS / Ruby / SQL
+JavaScript / HTML / CSS / Ruby / SQL / JAVA / TypeScript
 
 ### Libraries / Technologies
 React / Node.js / Express.js / AJAX / jQuery / Rails / Socket.io / WebSockets / Material UI / Bootstrap

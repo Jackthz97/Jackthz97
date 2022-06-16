@@ -15,5 +15,5 @@ Mocha / Chai / Storybook / Jest / Cypress / Rspec
 PostgreSQL
 
 ## You can contact me by ✉️
-- Email: jthz457@gmail.com 
+- Email: jackthzhang97@gmail.com 
 - Linkedin: https://www.linkedin.com/in/jackthz97/

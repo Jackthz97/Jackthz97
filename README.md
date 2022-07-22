@@ -3,7 +3,7 @@ Full-Stack Developer and recent web-development bootcamp graduate. I’m passion
 
 ## My Stacks 🖥
 ### Languages
-JavaScript / HTML / CSS / Ruby / SQL / JAVA
+JavaScript / HTML / CSS / Ruby / SQL / JAVA / Python
 
 ### Libraries / Technologies
 React / Node.js / Express.js / AJAX / jQuery / Rails / Socket.io / WebSockets / Material UI / Bootstrap / TypeScript / OOP

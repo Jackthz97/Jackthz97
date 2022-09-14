@@ -1,6 +1,6 @@
 ## Hello, my name is Tianhao! 👋
 Full-Stack Developer and recent web-development bootcamp graduate. I’m passionate about web development, working in collaborative teams, and learning new technologies.
-
+![](https://komarev.com/ghpvc/?username=Jackthz97)
 ## My Stacks 🖥
 ### Languages
 JavaScript / HTML / CSS / Ruby / SQL / JAVA / Python
@@ -18,4 +18,4 @@ PostgreSQL
 - Email: jackthzhang97@gmail.com 
 - Linkedin: https://www.linkedin.com/in/jackthz97/
 
-![image title](https://rushter.com/counter.svg)
+

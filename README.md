@@ -1,5 +1,6 @@
 ## Hello, my name is Tianhao! 👋
 Full-Stack Developer and recent web-development bootcamp graduate. I’m passionate about web development, working in collaborative teams, and learning new technologies.
+
 ![](https://komarev.com/ghpvc/?username=Jackthz97)
 ## My Stacks 🖥
 ### Languages

@@ -17,3 +17,5 @@ PostgreSQL
 ## You can contact me by ✉️
 - Email: jackthzhang97@gmail.com 
 - Linkedin: https://www.linkedin.com/in/jackthz97/
+
+![image title](https://rushter.com/counter.svg)
